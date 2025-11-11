@@ -1,6 +1,6 @@
 ```
-# NAME: Mukesh R
-# REG.NO: 212224240098
+NAME: Mukesh R
+REG.NO: 212224240098
 ```
 # Ex No.3 Supply Chain Transparency for Luxury Goods
 # Aim:
